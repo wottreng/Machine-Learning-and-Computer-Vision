@@ -1,0 +1,16 @@
+*.pickle
+/examples
+*.mp4
+/MLcode/storyTeller_ML/tokenizers
+*.txt
+*.pt
+*.ipynb
+/MLcode/basic_model_training/Training_Loss.pdf
+/ComputerVision-OpenCV/facialRecognition/dataset/yourFace/*
+/TFODCourse
+/ComputerVision-OpenCV/imageToText/.EasyOCR
+/ComputerVision-OpenCV/objectDetection/dataset/*
+/ComputerVision-OpenCV/objectDetection/dataNotUsed/*
+/ComputerVision-OpenCV/objectDetection/objectDetection.py
+/venv
+/.idea
